@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2,
+    "title": "reputation",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "year": 2017,
+    "label": "Big Machine Records"
+  },
+  {
+    "id": 22,
+    "title": "Melodrama",
+    "artist": "Lorde",
+    "genre": "Pop",
+    "year": 2017,
+    "label": "Republic Records"
+  },
+  {
+    "id": 25,
+    "title": "Poppy.Computer",
+    "artist": "Poppy",
+    "genre": "Pop",
+    "year": 2017,
+    "label": "Mad Decent"
+  },
+  {
+    "id": 38,
+    "title": "Memories...Do Not Open",
+    "artist": "The Chainsmokers",
+    "genre": "Pop",
+    "year": 2017,
+    "label": "Columbia Records"
+  },
+  {
+    "id": 47,
+    "title": "Witness",
+    "artist": "Katy Perry",
+    "genre": "Pop",
+    "year": 2017,
+    "label": "Capitol Records"
+  },
+  {
+    "id": 54,
+    "title": "All Your Fault Pt. 1",
+    "artist": "Bebe Rexha",
+    "genre": "Pop",
+    "year": 2017,
+    "label": "Warner Records"
+  },
+  {
+    "id": 55,
+    "title": "All Your Fault Pt. 2",
+    "artist": "Bebe Rexha",
+    "genre": "Pop",
+    "year": 2017,
+    "label": "Warner Records"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 9,
+    "title": "folklore",
+    "artist": "Taylor Swift",
+    "genre": "Indie",
+    "year": 2020,
+    "label": "Republic Records"
+  },
+  {
+    "id": 10,
+    "title": "evermore",
+    "artist": "Taylor Swift",
+    "genre": "Indie",
+    "year": 2020,
+    "label": "Republic Records"
+  }
+]

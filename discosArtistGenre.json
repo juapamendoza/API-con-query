@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Midnights",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "year": 2022,
+    "label": "Republic Records"
+  },
+  {
+    "id": 2,
+    "title": "reputation",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "year": 2017,
+    "label": "Big Machine Records"
+  },
+  {
+    "id": 3,
+    "title": "Lover",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "year": 2019,
+    "label": "Republic Records"
+  },
+  {
+    "id": 4,
+    "title": "1989",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "year": 2014,
+    "label": "Big Machine Records"
+  },
+  {
+    "id": 8,
+    "title": "Red",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "year": 2012,
+    "label": "Big Machine Records"
+  }
+]
